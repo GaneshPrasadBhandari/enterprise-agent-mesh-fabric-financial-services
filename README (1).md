@@ -68,9 +68,9 @@ The Enterprise Agent Mesh Fabric addresses this by placing a governed control pl
 
 ## 🏗️ System Architecture
 
-![Enterprise Agent Mesh Fabric Architecture](./diagrams/enterprise_agent_mesh_fabric_architecture.png)
+![Enterprise Agent Mesh Fabric Architecture](Enterprise_Agent_Mesh_Fabric_for_Financial_Services_Zenodo_White_Paper.pdf)
 
-> **Figure:** Governance-first control plane architecture for scalable agentic AI in regulated financial institutions.  
+> **Figure:** Governance-first control-plane architecture for scalable, agentic AI in regulated financial institutions.  
 > The architecture connects users, channels, systems of record, specialized agents, governed capability access, data integration, infrastructure, and business outcomes through a central control plane.
 
 ---
@@ -211,35 +211,13 @@ The Enterprise Agent Mesh Fabric can support regulated workflows such as:
 - **Portfolio risk monitoring** — portfolio-company surveillance, covenant pressure detection, market-signal monitoring
 - **Compliance operations** — policy checks, regulatory evidence preparation, audit-ready reporting
 
----
-
-## 📦 Repository Contents
-
-Recommended GitHub structure:
-
-```text
-.
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── .gitignore
-├── whitepaper/
-│   └── Enterprise_Agent_Mesh_Fabric_for_Financial_Services_Zenodo_White_Paper.pdf
-├── diagrams/
-│   ├── enterprise_agent_mesh_fabric_architecture.png
-│   ├── enterprise_agent_mesh_fabric_architecture.svg
-│   ├── enterprise_agent_mesh_fabric_governed_workflow.png
-│   └── enterprise_agent_mesh_fabric_governed_workflow.svg
-└── metadata/
-    └── zenodo_metadata.md
-```
 
 ---
 
 ## 🧾 References & Publication
 
 - **Zenodo Upload / Record:** https://zenodo.org/uploads/20738300
-- **Final Zenodo DOI:** **[ADD FINAL DOI AFTER PUBLISHING]**
+- **Final Zenodo DOI:** **[10.5281/zenodo.20738300]**
 - **Publication type:** Working Paper
 - **Version:** v1.0
 - **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
@@ -262,21 +240,6 @@ The paper draws on research and standards related to:
 
 ---
 
-## 📌 Suggested Repository Description
-
-Use this as the short GitHub repository description:
-
-```text
-Governance-first control plane architecture for scalable agentic AI in regulated financial institutions.
-```
-
-Recommended repository name:
-
-```text
-enterprise-agent-mesh-fabric-financial-services
-```
-
----
 
 ## 🧾 License
 
