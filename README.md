@@ -68,7 +68,7 @@ The Enterprise Agent Mesh Fabric addresses this by placing a governed control pl
 
 ## 🏗️ System Architecture
 
-![Enterprise Agent Mesh Fabric Architecture](Enterprise_Agent_Mesh_Fabric_for_Financial_Services_Zenodo_White_Paper.pdf)
+![Enterprise Agent Mesh Fabric Architecture](enterprise_agent_mesh_fabric_architecture.png)
 
 > **Figure:** Governance-first control-plane architecture for scalable, agentic AI in regulated financial institutions.  
 > The architecture connects users, channels, systems of record, specialized agents, governed capability access, data integration, infrastructure, and business outcomes through a central control plane.
