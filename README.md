@@ -22,7 +22,7 @@
 ```text
 Bhandari, G. P. (2026). Enterprise Agent Mesh Fabric for Financial Services:
 A Governance-First Control Plane Architecture for Scalable Agentic AI in
-Regulated Institutions. Zenodo. https://doi.org/[ADD-FINAL-ZENODO-DOI]
+Regulated Institutions. Zenodo. https://doi.org/[https://doi.org/10.5281/zenodo.20738300]
 ```
 
 ---
