@@ -15,7 +15,7 @@
 💻 **GitHub:** https://github.com/ganeshprasadbhandari  
 
 > **Citation note:** The Zenodo upload link above is the draft/upload URL. After final publishing, replace it with the final public Zenodo DOI, for example:  
-> `https://doi.org/10.5281/zenodo.[FINAL_RECORD_ID]`
+> `https://doi.org/10.5281/zenodo.[https://doi.org/10.5281/zenodo.20738300]`
 
 ### Recommended Citation After Zenodo Publication
 
@@ -77,7 +77,7 @@ The Enterprise Agent Mesh Fabric addresses this by placing a governed control pl
 
 ## 🔁 Governed Workflow
 
-![Enterprise Agent Mesh Fabric Governed Workflow](./diagrams/enterprise_agent_mesh_fabric_governed_workflow.png)
+![Enterprise Agent Mesh Fabric Governed Workflow](enterprise_agent_mesh_fabric_governed_workflow.png)
 
 > **Figure:** Governed workflow from business request intake to audited action.  
 > Each step is controlled through identity verification, policy checks, tool governance, evaluation, human review, observability, and rollback mechanisms.
