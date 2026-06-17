@@ -14,8 +14,6 @@
 🧬 **ORCID:** https://orcid.org/0009-0002-7308-4279  
 💻 **GitHub:** https://github.com/ganeshprasadbhandari  
 
-> **Citation note:** The Zenodo upload link above is the draft/upload URL. After final publishing, replace it with the final public Zenodo DOI, for example:  
-> `https://doi.org/10.5281/zenodo.[https://doi.org/10.5281/zenodo.20738300]`
 
 ### Recommended Citation After Zenodo Publication
 
